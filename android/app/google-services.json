@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50515140808",
+    "project_id": "ngobrolapps-whyildan",
+    "storage_bucket": "ngobrolapps-whyildan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50515140808:android:26752619c3385275f285fd",
+        "android_client_info": {
+          "package_name": "com.whyldanprtama.ngobrolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50515140808-s9pthr5t2c587g994shaiop03tbkn1l1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whyldanprtama.ngobrolapp",
+            "certificate_hash": "b29ab56b151330d5ac2eef2e1388b033f8c3377a"
+          }
+        },
+        {
+          "client_id": "50515140808-8s7263rqsk4chmkuc2v2el40jogeutib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU5V196ub_VyrZIfzSHZqET_8CUmP6TYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50515140808-8s7263rqsk4chmkuc2v2el40jogeutib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
